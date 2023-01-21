@@ -1,8 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
 <h3 align="center">A passionate frontend developer !</h3>
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" width="400" align="right" >
 
- <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" width="400" align="right">
-- 🌱 I’m currently learning **Frameworks, Courses etc..
+- 🌱 I’m currently learning **Frameworks, Courses etc..**
 
 - 👨‍💻 All of my projects are available at [http://surl.li/eedin](http://surl.li/eedin)
 
