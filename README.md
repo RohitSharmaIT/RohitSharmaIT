@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **28rohitsharmait@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rohitsharma2003/](https://drive.google.com/file/d/1q7jMrm33tA0DSfCIiu3HzQ_O5oy-qH5D/view?usp=share_link)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rohitsharma2003/](https://www.linkedin.com/in/rohitsharma2003/)
 
 - ⚡ Fun fact **I think I'm funny.**
 
