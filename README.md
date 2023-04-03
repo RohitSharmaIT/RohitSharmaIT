@@ -1,6 +1,6 @@
 ![logo](https://github.com/RohitSharmaIT/RohitSharmaIT/blob/main/Git'sBanner.png)
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
-<h3 align="center">A passionate frontend developer !</h3>
+<h3 align="center">A passionate front-end developer !</h3>
 
 
 - 🌱 I’m currently learning **Frameworks, Courses etc..**
