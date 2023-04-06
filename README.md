@@ -3,7 +3,7 @@
 <h3 align="center">A passionate front-end developer !</h3>
 
 
-- 🌱 I’m currently learning **Frameworks, Courses etc..**
+- 🌱 Currently, I'm learning MERN (MongoDB, Express, React, Node.js) full-stack web development through the esteemed CodeHelp platform, led by  Love Babbar Bhaiya.**
 
 - 👨‍💻 All of my projects are available at [http://surl.li/eedin](http://surl.li/eedin)
 
